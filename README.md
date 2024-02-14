@@ -24,3 +24,6 @@ work on the most complex projects, and entirely free.
 “configure python interpreter” option in settings.
  
 -  Install all project dependencies. These are listed in the requirements.txt file.
+
+# Notes
+-   Used automation script for <code>dateutil</code> env import
